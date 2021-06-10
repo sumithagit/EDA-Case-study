@@ -1,2 +1,2 @@
-# EDA-Case-study
+# Loan_data_EDA
 The dataset consists of data pertaning to the loan deatils of customers.This case study aims to identify patterns which indicate if a client has difficulty repaying their loan amounts which may be used for taking actions such as  reducing the amount of loan, denying the loan,sanctioning loans to  This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
